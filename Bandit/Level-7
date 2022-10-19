@@ -1,0 +1,2 @@
+ls -laR / | grep bandit7;find / -name bandit7.password;cat /var/lib/dpkg/info/bandit7.password
+z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
